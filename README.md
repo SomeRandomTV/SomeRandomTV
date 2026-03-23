@@ -96,7 +96,7 @@ class Curiosity:
 
 <div align="center">
 
-*"The eye sees only what the mind is prepared to comprehend."*
+*"The eye sees only what the mind is prepared to comprehend. ~ Henri Bergson"*
 
 `< built with curiosity />` &nbsp;·&nbsp; `🎸 septilith` &nbsp;·&nbsp; `📍 tokyo`
 
