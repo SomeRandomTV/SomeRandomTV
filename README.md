@@ -1,81 +1,101 @@
-# Curiosity
+<div align="center">
 
-Computer Science student at Texas Tech University with a strong focus on **Image Processing/Computer Vision** and **AI/ML systems engineering**. I build practical, security-conscious software with an emphasis on low-level understanding, automation, and real-world deployment constraints.
+```
+░█▀▀░█░█░█▀▄░▀█▀░█▀█░█▀▀░▀█▀░▀█▀░█░█
+░█░░░█░█░█▀▄░░█░░█░█░▀▀█░░█░░░█░░░█░
+░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░▀░░░▀░
+```
 
----
+**`SomeRandomTV`** &nbsp;·&nbsp; student · builder · musician
 
-## Core Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI+%2F+ML+%2F+Deep+Learning;Computer+Vision+%26+Image+Processing;Deathcore+vocalist+%26+guitarist;Fluent+in+Python%2C+Spanish%2C+and+sarcasm)](https://git.io/typing-svg)
 
-- **Cybersecurity**
-  - Red Teaming, exploitation fundamentals, C2 infrastructure
-  - Secure API design (JWT, auth flows, threat modeling)
-  - Adversarial thinking and system hardening
-
-- **Artificial Intelligence & ML**
-  - Local-first AI systems with privacy constraints
-  - NLP (intent parsing, entity extraction)
-  - Computer vision for real-time decision support
-
-- **Systems & Software Engineering**
-  - Python, C, Linux tooling
-  - Process management, IPC, API wrappers
-  - Clean architecture, testability, and maintainability
+</div>
 
 ---
 
-## Active Projects
+### `whoami`
 
-### AXIOM 
-An Asynchronous virtual assistant/agent that I use on a daily for productivity. 
-
-- Fully **local processing** (privacy-first)
-- **Asynchoronous** handling of events for smooth experience
-
-### AI Infrastructure & Tooling
-- Local LLM orchestration and management
-- Custom Python clients and lifecycle managers
-- Web UIs for model control and system observability
-
-### Eidos 
-Eidos is a mini compiler that I am writting in C. For now it is a simple EXTEREMLY bare bones language but I have plans for it, mostly for fun and to learn. 
-
-- Custom Lexer and BNF rules 
-
-### Formal Grammar 
-- Lexer built on Finite State Automata
-- Syntax Parser follows custom grammar
-
+```python
+class Curiosity:
+    name        = "SomeRandomTV"
+    focus       = ["AI", "ML", "Deep Learning", "Computer Vision"]
+    location    = "Tokyo, Japan"  # @ Andgo INC
+    languages   = ["Python", "C", "C++", "Spanish", "English"]
+    band        = "Septilith 🎸"  # Deathcore · Vocals & Guitar
+    status      = "always building something"
+```
 
 ---
 
-## Technical Stack
+### `stack.py`
 
-**Languages:**  
-Python · C · Bash · Rust
+<div align="center">
 
-**Domains:**  
-AI/ML · Computer Vision · Image Processing · NLP · Systems Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Tools:**  
-Linux · Git · GitHub/GitLab · Docker · REST APIs 
-
----
-
-## Outside of Code
-
-- Guitarist in a deathcore band (**Septilith**)
-- Strong believer that good engineering requires both discipline and creativity
+</div>
 
 ---
 
-## Philosophy
+### `projects/`
 
-> Build things that work.  
-> Understand how they break.  
-> Always Respect privacy.  
-> Optimize for reality, not hype.
-> Or die trying.
+```
+📁 Auralens
+   ├── description  →  [add your Auralens description here]
+   ├── stack        →  Python · OpenCV · PyTorch
+   └── repo         →  [link]
+```
+
+> 💡 *More projects loading... stay tuned.*
 
 ---
 
-Feel free to explore the repositories below.
+### `experience/`
+
+```
+📌 Andgo INC  ·  Tokyo, Japan
+   ├── role     →  AI / ML Engineering Intern
+   ├── focus    →  Computer Vision, Deep Learning pipelines
+   └── vibes    →  big city, bigger models
+```
+
+---
+
+### `fun_facts.txt`
+
+```
+- 🎤 Vocalist & guitarist @ Septilith (deathcore band)
+- 🌎 Bilingual: Spanish / English
+- 🧠 Obsessed with how machines learn to see
+- 🍜 Currently surviving on ramen and research papers
+- 🔁 My debugging process: coffee → Stack Overflow → coffee
+```
+
+---
+
+### `stats/`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomeRandomTV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=ff79c6&text_color=f8f8f2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandomTV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&text_color=f8f8f2)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The eye sees only what the mind is prepared to comprehend."*
+
+`< built with curiosity />` &nbsp;·&nbsp; `🎸 septilith` &nbsp;·&nbsp; `📍 tokyo`
+
+</div>
