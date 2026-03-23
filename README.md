@@ -20,10 +20,11 @@
 class Curiosity:
     name        = "SomeRandomTV"
     focus       = ["AI", "ML", "Deep Learning", "Computer Vision"]
-    location    = "Tokyo, Japan"  # @ Andgo INC
+    location    = "Lubbock Texas" # @ Texas Tech University
     languages   = ["Python", "C", "C++", "Spanish", "English"]
     band        = "Septilith 🎸"  # Deathcore · Vocals & Guitar
     status      = "always building something"
+    tired       = true
 ```
 
 ---
@@ -48,9 +49,9 @@ class Curiosity:
 
 ```
 📁 Auralens
-   ├── description  →  [add your Auralens description here]
+   ├── description  →  Custom Edge Deep learning framework for RGB-D Scene Classification and Recognition
    ├── stack        →  Python · OpenCV · PyTorch
-   └── repo         →  [link]
+   └── repo         →  [link]https://github.com/SomeRandomTV/Auralens
 ```
 
 > 💡 *More projects loading... stay tuned.*
@@ -61,9 +62,9 @@ class Curiosity:
 
 ```
 📌 Andgo INC  ·  Tokyo, Japan
-   ├── role     →  AI / ML Engineering Intern
-   ├── focus    →  Computer Vision, Deep Learning pipelines
-   └── vibes    →  big city, bigger models
+   ├── role       →  AI / ML Tech Researcher
+   ├── focus      →  Reviewing data + Training Models for B2C or B2B
+   └── experience →  One hell of an experience  
 ```
 
 ---
@@ -75,7 +76,8 @@ class Curiosity:
 - 🌎 Bilingual: Spanish / English
 - 🧠 Obsessed with how machines learn to see
 - 🍜 Currently surviving on ramen and research papers
-- 🔁 My debugging process: coffee → Stack Overflow → coffee
+- 🔁 My debugging process: caffiene → Stack Overflow/Claude → more caffiene 
+- 📜 Philosophy: Data belongs to the people in a decentralized infra
 ```
 
 ---
