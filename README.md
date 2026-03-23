@@ -51,7 +51,7 @@ class Curiosity:
 📁 Auralens
    ├── description  →  Custom Edge Deep learning framework for RGB-D Scene Classification and Recognition
    ├── stack        →  Python · OpenCV · PyTorch
-   └── repo         →  [link](https://github.com/SomeRandomTV/Auralens)
+   └── repo         →  [GitHub](https://github.com/SomeRandomTV/Auralens)
 ```
 
 > 💡 *More projects loading... stay tuned.*
